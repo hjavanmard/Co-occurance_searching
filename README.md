@@ -6,7 +6,7 @@ My program will read files containing English sentences, one sentence per line. 
 
 **My program is able to process very large sentence files and many queries efficiently. It is also respond quickly to queries with empty result sets.**
 
-** The code is successfully tested will files containing up to one million sentences, as well as other edge cases.**
+**The code is successfully tested will files containing up to one million sentences, as well as other edge cases.**
 
 **File Format**
 
